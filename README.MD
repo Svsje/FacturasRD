@@ -9,25 +9,25 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 
 - Funcionalidades del sistema:
 
- Registrar y administrar clientes.
- Controlar el inventario de productos o servicios.
- Generar, consultar e imprimir facturas.
- Llevar el control de ingresos y gastos mensuales.
- Obtener resúmenes y estadísticas de facturación.
- Acceso desde cualquier dispositivo (PC, tablet o móvil) gracias a su diseño web y móvil.
+1. Registrar y administrar clientes.
+2. Controlar el inventario de productos o servicios.
+3. Generar, consultar e imprimir facturas.
+4. Llevar el control de ingresos y gastos mensuales.
+5. Obtener resúmenes y estadísticas de facturación.
+6. Acceso desde cualquier dispositivo (PC, tablet o móvil) gracias a su diseño web y móvil.
 
-- Público Objetivo
-Pequeños negocios
-Emprendedores individuales
-Talleres de reparación
-Comercios que deseen digitalizar sus procesos
+- Público Objetivo. 
+- Pequeños negocios
+- Emprendedores individuales
+- Talleres de reparación
+- Comercios que deseen digitalizar sus procesos
 
 - Tecnologías  a Utilizar
-Python: Lenguaje principal del sistema.
-Flask: Framework web para el backend.
-Flet: Framework para el desarrollo de interfaces gráficas modernas y multiplataforma.
-HTML/CSS: Para las vistas en la parte web.
-Mysql: Para el almacenamiento de datos.
+- Python: Lenguaje principal del sistema.
+- Flask: Framework web para el backend.
+- Flet: Framework para el desarrollo de interfaces gráficas modernas y multiplataforma.
+- HTML/CSS: Para las vistas en la parte web.
+- Mysql: Para el almacenamiento de datos.
 
 - Objetivos del Proyecto
 Brindar una solución fácil de usar para usuarios sin conocimientos técnicos.
