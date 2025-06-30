@@ -41,7 +41,7 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 - **MySQL**  
   Para el almacenamiento de datos.
 
-- Objetivos del Proyecto
+- **Objetivos del Proyecto**
 Brindar una solución fácil de usar para usuarios sin conocimientos técnicos.
 Permitir el acceso a la información de forma remota y segura.
 Reducir el uso de papel y procesos manuales en la facturación y control contable.
