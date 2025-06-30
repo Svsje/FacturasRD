@@ -1,6 +1,6 @@
 ## Documentación del Proyecto
 
-- Nombre del Proyecto
+## Nombre del Proyecto
 **FacturaRd**
 
 ## Descripción General
