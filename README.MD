@@ -1,6 +1,6 @@
-**Documentación del Proyecto**
+## Documentación del Proyecto
 
-## Nombre del Proyecto
+- Nombre del Proyecto
 **FACTURASRD**
 
 ## Descripción General
