@@ -17,12 +17,11 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 6. **Acceso desde cualquier dispositivo (PC, tablet o móvil) gracias a su diseño web y móvil.**
 
 ## Público Objetivo. 
-- Pequeños negocios
-- Emprendedores individuales
-- Talleres de reparación
-- Comercios que deseen digitalizar sus procesos
+**Pequeños negocios**
+**Emprendedores individuales**
+**Talleres de reparación**
+**Comercios que deseen digitalizar sus procesos**
 
-- Tecnologías  a Utilizar:
 
 ##  Tecnologías a Utilizar
 
