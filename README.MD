@@ -22,12 +22,18 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 - Talleres de reparación
 - Comercios que deseen digitalizar sus procesos
 
-- Tecnologías  a Utilizar
-Python: Lenguaje principal del sistema.
-Flask: Framework web para el backend.
-Flet: Framework para el desarrollo de interfaces gráficas modernas y multiplataforma.
-HTML/CSS: Para las vistas en la parte web.
-Mysql: Para el almacenamiento de datos.
+- Tecnologías  a Utilizar:
+
+- Python
+Lenguaje principal del sistema.
+- Flask 
+Framework web para el backend.
+- Flet 
+Framework para el desarrollo de interfaces gráficas modernas y multiplataforma.
+- HTML/CSS
+ Para las vistas en la parte web.
+- Mysql
+ Para el almacenamiento de datos.
 
 - Objetivos del Proyecto
 Brindar una solución fácil de usar para usuarios sin conocimientos técnicos.
