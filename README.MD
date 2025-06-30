@@ -1,7 +1,7 @@
 ## Documentación del Proyecto
 
 ## Nombre del Proyecto
-**FacturaRd**
+**FACTURASRD**
 
 ## Descripción General
 Este proyecto esta pensando para pequeños negocios, consiste en un sistema de facturación multiplataforma (Web & Movil) construido apartir de Python. para el backend será utilizado Flask (Por su facilidad a la hora de implementar los servidores.) y Flet (para la implementacion de la interfaz movil). El objetivo principal de ofrecer una herramiente eficiente, simple y accesible para emprendedores y pequeños negocios puedan gestionar de forma segura sus operaciones comerciales.
@@ -9,12 +9,12 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 
 ## Funcionalidades del sistema:
 
-1. Registrar y administrar clientes.
-2. Controlar el inventario de productos o servicios.
-3. Generar, consultar e imprimir facturas.
-4. Llevar el control de ingresos y gastos mensuales.
-5. Obtener resúmenes y estadísticas de facturación.
-6. Acceso desde cualquier dispositivo (PC, tablet o móvil) gracias a su diseño web y móvil.
+1. **Registrar y administrar clientes.**
+2. **Controlar el inventario de productos o servicios.**
+3. **Generar, consultar e imprimir facturas.**
+4. **Llevar el control de ingresos y gastos mensuales.**
+5. **Obtener resúmenes y estadísticas de facturación.**
+6. **Acceso desde cualquier dispositivo (PC, tablet o móvil) gracias a su diseño web y móvil.**
 
 ## Público Objetivo. 
 - Pequeños negocios
