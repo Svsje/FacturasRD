@@ -23,7 +23,7 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 - **Comercios que deseen digitalizar sus procesos**
 
 
-##  Tecnologías a Utilizar
+##  Tecnologías a Utilizar 
 
  **Python**  
   Lenguaje principal del sistema.
@@ -40,7 +40,7 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
  **MySQL**  
   Para el almacenamiento de datos.
 
-**Objetivos del Proyecto**
+- **Objetivos del Proyecto**
 
 Brindar una solución fácil de usar para usuarios sin conocimientos técnicos.
 
