@@ -1,13 +1,13 @@
-- Documentación del Proyecto
+## Documentación del Proyecto
 
-Nombre del Proyecto
-SDFWM (Sistema de Facturación Web y Móvil)
+- Nombre del Proyecto
+**FacturaRd**
 
-- Descripción General
+## Descripción General
 Este proyecto esta pensando para pequeños negocios, consiste en un sistema de facturación multiplataforma (Web & Movil) construido apartir de Python. para el backend será utilizado Flask (Por su facilidad a la hora de implementar los servidores.) y Flet (para la implementacion de la interfaz movil). El objetivo principal de ofrecer una herramiente eficiente, simple y accesible para emprendedores y pequeños negocios puedan gestionar de forma segura sus operaciones comerciales.
 
 
-- Funcionalidades del sistema:
+## Funcionalidades del sistema:
 
 1. Registrar y administrar clientes.
 2. Controlar el inventario de productos o servicios.
@@ -16,7 +16,7 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 5. Obtener resúmenes y estadísticas de facturación.
 6. Acceso desde cualquier dispositivo (PC, tablet o móvil) gracias a su diseño web y móvil.
 
-- Público Objetivo. 
+## Público Objetivo. 
 - Pequeños negocios
 - Emprendedores individuales
 - Talleres de reparación
