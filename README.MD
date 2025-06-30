@@ -26,22 +26,22 @@ Este proyecto esta pensando para pequeños negocios, consiste en un sistema de f
 
 ##  Tecnologías a Utilizar
 
-- **Python**  
+ **Python**  
   Lenguaje principal del sistema.
 
-- **Flask**  
+ **Flask**  
   Framework web para el backend.
 
-- **Flet**  
+ **Flet**  
   Framework para el desarrollo de interfaces gráficas modernas y multiplataforma.
 
-- **HTML/CSS**  
+ **HTML/CSS**  
   Para las vistas en la parte web.
 
-- **MySQL**  
+ **MySQL**  
   Para el almacenamiento de datos.
 
-- **Objetivos del Proyecto**
+ **Objetivos del Proyecto**
 Brindar una solución fácil de usar para usuarios sin conocimientos técnicos.
 Permitir el acceso a la información de forma remota y segura.
 Reducir el uso de papel y procesos manuales en la facturación y control contable.
