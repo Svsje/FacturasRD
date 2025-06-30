@@ -4,7 +4,7 @@ Nombre del Proyecto
 SDFWM (Sistema de Facturación Web y Móvil)
 
 - Descripción General
-Este proyecto esta pensando para pequeños negocios, consiste en un sistema de facturación multiplataforma (Web & Movil) construido apartir de Python. para el backend será utilizado Flask (Por su facilidad a la hora de implementar los servidores.) y Flet (para la implementacion de la interfaz movil). El objetivo principal ds ofrecer una herramiente eficiente, simple y accesible para emprendedores y pequeños negocios puedan gestionar de forma segura sus operaciones comerciales.
+Este proyecto esta pensando para pequeños negocios, consiste en un sistema de facturación multiplataforma (Web & Movil) construido apartir de Python. para el backend será utilizado Flask (Por su facilidad a la hora de implementar los servidores.) y Flet (para la implementacion de la interfaz movil). El objetivo principal de ofrecer una herramiente eficiente, simple y accesible para emprendedores y pequeños negocios puedan gestionar de forma segura sus operaciones comerciales.
 
 
 - Funcionalidades del sistema:
